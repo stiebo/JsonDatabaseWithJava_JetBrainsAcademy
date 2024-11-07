@@ -1,0 +1,16 @@
+{
+  "type":"set",
+  "key":"person3",
+  "value":{
+    "name":"Peter Pan",
+    "car":{
+      "model":"Ford Roadster",
+      "year":"2022"
+    },
+    "rocket":{
+      "name":"Falcon 9",
+      "launches":"87",
+      "passengers":["Peter","Paul","Mary"]
+    }
+  }
+}

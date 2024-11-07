@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/JSON Database with Java/*
+!/JSON Database with Java/task/
+/JSON Database with Java/task/*
+!/JSON Database with Java/task/src
